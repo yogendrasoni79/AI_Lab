@@ -1,2 +1,4 @@
+git remote set-url origin https://github.com/yogendrasoni79/AI_Lab.git
+
 fatal: refusing to merge unrelated histories
 PS C:\Azure_AI_Lab> git pull origin master  --allow-unrelated-histories
