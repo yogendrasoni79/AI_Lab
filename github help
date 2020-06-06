@@ -1,0 +1,2 @@
+fatal: refusing to merge unrelated histories
+PS C:\Azure_AI_Lab> git pull origin master  --allow-unrelated-histories
